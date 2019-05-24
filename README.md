@@ -117,8 +117,7 @@
 * DenseNet: https://github.com/liuzhuang13/DenseNet
 * Tensorflow-Tutorial: https://github.com/MorvanZhou/Tensorflow-Tutorial
 * Build Graph Nets in Tensorflow: https://github.com/deepmind/graph_nets
-* All Algorithms implemented in Python:  
-  https://github.com/TheAlgorithms/Python
+* All Algorithms implemented in Python: https://github.com/TheAlgorithms/Python
 
 
 
