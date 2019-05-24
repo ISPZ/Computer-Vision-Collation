@@ -69,7 +69,7 @@
 * Moblienet-v3: https://github.com/Tramac/mobilenetv3-segmentation (unofficial)
 * segmentation models: https://github.com/qubvel/segmentation_models  
 * U-net Family: https://github.com/ShawnBIT/UNet-family  
-* U-net:  
+* U-net  
   (Pytorch): https://github.com/milesial/Pytorch-UNet  
   (Keras): https://github.com/zhixuhao/unet  
   (Tensorflow):https://github.com/jakeret/tf_unet
