@@ -1,6 +1,5 @@
 ## Paper List
 * CVPR2019 https://github.com/extreme-assistant/cvpr2019  
-* Awesome Computer Vision https://github.com/jbhuang0604/awesome-computer-vision
 * CV-Daily   
   https://github.com/zhengzhugithub/CV-arXiv-Daily  
   https://github.com/amusi/daily-paper-computer-vision
@@ -114,10 +113,12 @@
 * Colorizing and Restoring Old Images: https://github.com/jantic/DeOldify
 
 ## Others
+* Awesome Computer Vision https://github.com/jbhuang0604/awesome-computer-vision
 * DenseNet: https://github.com/liuzhuang13/DenseNet
 * Tensorflow-Tutorial: https://github.com/MorvanZhou/Tensorflow-Tutorial
 * Build Graph Nets in Tensorflow: https://github.com/deepmind/graph_nets
 * All Algorithms implemented in Python: https://github.com/TheAlgorithms/Python
+
 
 
 
