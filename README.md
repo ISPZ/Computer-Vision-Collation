@@ -85,7 +85,8 @@
   https://github.com/LeeJunHyun/Image_Segmentation
  
 
-## Object Detection
+## Object Detection / Classification
+### Detection
 * Object Detection Summary  
   (CVer): https://github.com/amusi/awesome-object-detection  
   (HOYA): https://github.com/hoya012/deep_learning_object_detection  
@@ -97,6 +98,8 @@
   (PyTorch): https://github.com/facebookresearch/maskrcnn-benchmark
 * SECOND for KITTI/NuScenes object detection:  
   https://github.com/traveller59/second.pytorch
+### Classification
+* Image Classification: https://github.com/hysts/pytorch_image_classification
 
 ## GAN
 * All About GAN: https://github.com/hollobit/All-About-the-GAN
