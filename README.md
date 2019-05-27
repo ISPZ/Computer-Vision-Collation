@@ -91,8 +91,9 @@
   (CVer): https://github.com/amusi/awesome-object-detection  
   (HOYA): https://github.com/hoya012/deep_learning_object_detection  
 * YOLO  
-  keras-yolo V2: https://github.com/experiencor/keras-yolo2  
-  keras-yolo V3: https://github.com/qqwweee/keras-yolo3
+  YOLOv2(Keras): https://github.com/experiencor/keras-yolo2  
+  YOLOv3(Keras): https://github.com/qqwweee/keras-yolo3  
+  YOLOv3+MobileNet(Keras):https://github.com/Adamdad/keras-YOLOv3-mobilenet
 * Mask-RCNN  
   (Tensorflow)https://github.com/matterport/Mask_RCNN  
   (PyTorch): https://github.com/facebookresearch/maskrcnn-benchmark
