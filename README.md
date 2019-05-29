@@ -72,6 +72,8 @@
 * Awesome Semantic Segmentation: https://github.com/mrgloom/awesome-semantic-segmentation
 * Ultra High Resolution Segmentation:  
   https://github.com/chenwydj/ultra_high_resolution_segmentation
+* Lightweight models for real-time semantic segmentation(include Mobilenetv1~v3):  
+  https://github.com/Tramac/Lightweight-Segmentation
 * Deeplab-v3 + Mobilenet: https://github.com/nolanliou/mobile-deeplab-v3-plus
 * Deeplab-v3(Keras): https://github.com/bonlime/keras-deeplab-v3-plus
 * Moblienet-v3: https://github.com/Tramac/mobilenetv3-segmentation (unofficial)
