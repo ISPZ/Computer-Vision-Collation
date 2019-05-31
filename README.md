@@ -93,10 +93,11 @@
   (CVer): https://github.com/amusi/awesome-object-detection  
   (HOYA): https://github.com/hoya012/deep_learning_object_detection  
 * YOLO  
-  YOLOv2(Keras): https://github.com/experiencor/keras-yolo2  
-                 https://github.com/mjDelta/yolo2-keras (Detecting Red Blood Cell)  
-  YOLOv3(Keras): https://github.com/qqwweee/keras-yolo3  
-  YOLOv3+MobileNet(Keras):https://github.com/Adamdad/keras-YOLOv3-mobilenet
+  1. YOLOv2(Keras):
+      * https://github.com/experiencor/keras-yolo2  
+      * https://github.com/mjDelta/yolo2-keras (Detecting Red Blood Cell)  
+  2. YOLOv3(Keras): https://github.com/qqwweee/keras-yolo3  
+  3. YOLOv3+MobileNet(Keras): https://github.com/Adamdad/keras-YOLOv3-mobilenet
 * Mask-RCNN  
   (Tensorflow)https://github.com/matterport/Mask_RCNN  
   (PyTorch): https://github.com/facebookresearch/maskrcnn-benchmark
