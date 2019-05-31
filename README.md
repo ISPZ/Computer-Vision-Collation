@@ -94,6 +94,7 @@
   (HOYA): https://github.com/hoya012/deep_learning_object_detection  
 * YOLO  
   YOLOv2(Keras): https://github.com/experiencor/keras-yolo2  
+                 https://github.com/mjDelta/yolo2-keras (Detecting Red Blood Cell)  
   YOLOv3(Keras): https://github.com/qqwweee/keras-yolo3  
   YOLOv3+MobileNet(Keras):https://github.com/Adamdad/keras-YOLOv3-mobilenet
 * Mask-RCNN  
