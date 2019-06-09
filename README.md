@@ -105,6 +105,7 @@
   https://github.com/traveller59/second.pytorch
 ### Classification
 * Image Classification: https://github.com/hysts/pytorch_image_classification
+* Awesome image classification：https://github.com/weiaicunzai/awesome-image-classification
 
 ## GAN
 * All About GAN: https://github.com/hollobit/All-About-the-GAN
