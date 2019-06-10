@@ -127,8 +127,8 @@
 * Tensorflow-Tutorial: https://github.com/MorvanZhou/Tensorflow-Tutorial
 * Build Graph Nets in Tensorflow: https://github.com/deepmind/graph_nets
 * All Algorithms implemented in Python: https://github.com/TheAlgorithms/Python
-* List of Data Science Cheatsheets to rule the world  
-  https://github.com/FavioVazquez/ds-cheatsheets
+* Data Science Cheatsheets：https://github.com/FavioVazquez/ds-cheatsheets
+* Deep Learning Models：https://github.com/rasbt/deeplearning-models  :smiley: 
 
 
 
