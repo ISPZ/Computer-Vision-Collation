@@ -1,5 +1,6 @@
 ## Paper List
-* CVPR2019 https://github.com/extreme-assistant/cvpr2019  
+* CVPR2019  
+  https://github.com/extreme-assistant/cvpr2019  
 * CV-Daily   
   https://github.com/zhengzhugithub/CV-arXiv-Daily  
   https://github.com/amusi/daily-paper-computer-vision
