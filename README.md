@@ -86,11 +86,12 @@
   (Tensorflow):https://github.com/jakeret/tf_unet
 * U-net project  
   BRATS 2017: https://github.com/zsdonghao/u-net-brain-tumor  
-  BRATS 2015&2017: https://github.com/MaciejMazurowski/brain-segmentation  
-  TCGA-LGG: https://github.com/taigw/brats17
+  BRATS 2015&2017: https://github.com/taigw/brats17  
+  TCGA-LGG: https://github.com/MaciejMazurowski/brain-segmentation  
 * U-Net, R2U-Net, Attention U-Net, Attention R2U-Net  
   https://github.com/LeeJunHyun/Image_Segmentation
- 
+* DU-Net: https://github.com/RanSuLab/DUNet-retinal-vessel-detection  :star:  
+  Deformable-ConvNets: https://github.com/msracver/Deformable-ConvNets
 
 ## Object Detection / Classification
 ### Detection
@@ -125,6 +126,7 @@
 * One Day One GAN: https://github.com/OUCMachineLearning/OUCML/tree/master/One%20Day%20One%20GAN
 * NVIDIA-vid2vid: https://github.com/NVIDIA/vid2vid
 * Colorizing and Restoring Old Images: https://github.com/jantic/DeOldify
+* SAGAN: https://github.com/heykeetae/Self-Attention-GAN :star:
 
 ## Others
 * Awesome Computer Vision https://github.com/jbhuang0604/awesome-computer-vision
