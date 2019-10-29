@@ -81,13 +81,13 @@
 * Deeplab-v3 + Mobilenet: https://github.com/nolanliou/mobile-deeplab-v3-plus
 * Deeplab-v3(Keras): https://github.com/bonlime/keras-deeplab-v3-plus
 * Moblienet-v3: https://github.com/Tramac/mobilenetv3-segmentation (unofficial)
-* segmentation models: https://github.com/qubvel/segmentation_models  
-* U-net Family: https://github.com/ShawnBIT/UNet-family  
+* segmentation models: https://github.com/qubvel/segmentation_models
+* U-net Family: https://github.com/ShawnBIT/UNet-family
 * U-net  
   (Pytorch): https://github.com/milesial/Pytorch-UNet  
   (Keras): https://github.com/zhixuhao/unet  
-  (Tensorflow):https://github.com/jakeret/tf_unet  
-* Brain Segmentation   
+  (Tensorflow):https://github.com/jakeret/tf_unet
+* Brain Segmentation
   Medical Image Process Template:https://github.com/FENGShuanglang/Pytorch_Medical_Segmention_Template  
   BraTS-2018：https://github.com/junqiangchen/BraTS18-Challege  
   BraTS-2017:https://github.com/lelechen63/MRI-tumor-segmentation-Brats  
@@ -96,8 +96,7 @@
   3D BraTS-2018:https://github.com/IAmSuyogJadhav/3d-mri-brain-tumor-segmentation-using-autoencoder-regularization  
   pytorch TCGA-LGG: https://github.com/mateuszbuda/brain-segmentation-pytorch  
   FCN BraTS-2017: https://github.com/Issam28/Brain-tumor-segmentation  
-  
-  BRATS 2017: https://github.com/zsdonghao/u-net-brain-tumor  
+  BRATS 2017: https://github.com/zsdonghao/u-net-brain-tumor  :star:  
   BRATS 2015&2017: https://github.com/taigw/brats17  
   TCGA-LGG: https://github.com/MaciejMazurowski/brain-segmentation  
   BraTS2018-tumor-segmentation：https://github.com/ieee820/BraTS2018-tumor-segmentation
