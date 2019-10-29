@@ -1,4 +1,6 @@
 ## Paper List
+* MICCAI2019  
+  open access：https://github.com/JunMa11/MICCAI2019-OpenSourcePapers  
 * CVPR2019  
   https://github.com/extreme-assistant/cvpr2019  
 * CV-Daily   
@@ -7,8 +9,9 @@
 * CV Translation  
   https://github.com/SnailTyan/deep-learning-papers-translation
 * Papers with code. Sorted by stars. Updated weekly  
-  https://github.com/zziz/pwc
-
+  https://github.com/zziz/pwc  
+* Deep Learning Papers on Medical Image Analysis  
+  https://github.com/albarqouni/Deep-Learning-for-Medical-Applications  
 ## ML Courses
 * Awesome Deep Learning: https://github.com/ChristosChristofidis/awesome-deep-learning
 * MIT DeepLearning：https://github.com/lexfridman/mit-deep-learning
@@ -83,8 +86,17 @@
 * U-net  
   (Pytorch): https://github.com/milesial/Pytorch-UNet  
   (Keras): https://github.com/zhixuhao/unet  
-  (Tensorflow):https://github.com/jakeret/tf_unet
-* U-net project  
+  (Tensorflow):https://github.com/jakeret/tf_unet  
+* Brain Segmentation   
+  Medical Image Process Template:https://github.com/FENGShuanglang/Pytorch_Medical_Segmention_Template  
+  BraTS-2018：https://github.com/junqiangchen/BraTS18-Challege  
+  BraTS-2017:https://github.com/lelechen63/MRI-tumor-segmentation-Brats  
+  GAN BraTS-2013:https://github.com/SabareeshIyer/Brain-tumor-detection-in-3D-MRIs-using-DCGAN  
+  3DUNet BraTS-2018：https://github.com/tkuanlun350/3DUnet-Tensorflow-Brats18  
+  3D BraTS-2018:https://github.com/IAmSuyogJadhav/3d-mri-brain-tumor-segmentation-using-autoencoder-regularization  
+  pytorch TCGA-LGG: https://github.com/mateuszbuda/brain-segmentation-pytorch  
+  FCN BraTS-2017: https://github.com/Issam28/Brain-tumor-segmentation  
+  
   BRATS 2017: https://github.com/zsdonghao/u-net-brain-tumor  
   BRATS 2015&2017: https://github.com/taigw/brats17  
   TCGA-LGG: https://github.com/MaciejMazurowski/brain-segmentation  
