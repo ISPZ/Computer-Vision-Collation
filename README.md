@@ -96,6 +96,13 @@
   3D BraTS-2018:https://github.com/IAmSuyogJadhav/3d-mri-brain-tumor-segmentation-using-autoencoder-regularization  
   pytorch TCGA-LGG: https://github.com/mateuszbuda/brain-segmentation-pytorch  
   FCN BraTS-2017: https://github.com/Issam28/Brain-tumor-segmentation  
+  BraTS-2015: https://github.com/naldeborgh7575/brain_segmentation  
+  BraTS-2016&2017: https://github.com/JooHyun-Lee/BraTs  
+  3D-brain-segmentation: https://github.com/mrkolarik/3D-brain-segmentation  
+  BraTS-2013: https://github.com/jadevaibhav/Brain-Tumor-Segmentation-using-Deep-Neural-networks  
+  3D Unet for Isointense Infant Brain Image Segmentation: https://github.com/zhengyang-wang/3D-Unet--Tensorflow  
+  MRBrains18:https://github.com/ubamba98/Brain-Segmentation  
+  BraTS-2018: https://github.com/Jack-Etheredge/Brain-Tumor-Segmentation-3D-UNet-CNN  
   BRATS 2017: https://github.com/zsdonghao/u-net-brain-tumor  :star:  
   BRATS 2015&2017: https://github.com/taigw/brats17  
   TCGA-LGG: https://github.com/MaciejMazurowski/brain-segmentation  
