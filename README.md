@@ -1,11 +1,9 @@
 ## Paper List
-* CVPR2020: https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation  
+* CVPR2017~2021: https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation  
 * ICCV2019: https://github.com/extreme-assistant/iccv2019  
   open access: http://openaccess.thecvf.com/ICCV2019.py  
 * MICCAI2019  
   open access：https://github.com/JunMa11/MICCAI2019-OpenSourcePapers  
-* CVPR2019  
-  https://github.com/extreme-assistant/cvpr2019  
 * CV-Daily   
   https://github.com/zhengzhugithub/CV-arXiv-Daily  
   https://github.com/amusi/daily-paper-computer-vision
